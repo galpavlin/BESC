@@ -1,0 +1,95 @@
+Protel Design System Design Rule Check
+PCB File : A:\Documents\ev\BESC\besc pcb.PcbDoc
+Date     : 3.11.2018
+Time     : 23:21:23
+
+Processing Rule : Clearance Constraint (Gap=0.152mm) (All),(All)
+   Violation between Clearance Constraint: (Collision < 0.152mm) Between Pad NT1-1(167.259mm,22.196mm) on L2 And Pad NT1-2(167.259mm,21.696mm) on L2 
+   Violation between Clearance Constraint: (0.094mm < 0.152mm) Between Pad NT1-2(167.259mm,21.696mm) on L2 And Track (167.259mm,22.196mm)(167.259mm,24.172mm) on L2 
+Rule Violations :2
+
+Processing Rule : Clearance Constraint (Gap=0.3mm) (OnLayer('L2')       OR                OnLayer('L3')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.305mm) (inpoly),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.203mm) ((OnLayer('L2') OR OnLayer('L3')) AND (InNet('VIN') OR InNet('PHASE_HB1') OR InNet('PHASE_HB2') OR InNet('PHASE_HB3') OR InNet('GH_HB1')  OR InNet('GH_HB2') OR InNet('GH_HB3') OR InNet('CP_HB1')  OR InNet('CP_HB2') OR InNet('CP_HB3'))),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.406mm) (InNet('PHASE_OUT_HB1')   or      InNet('PHASE_OUT_HB2')   or    InNet('PHASE_OUT_HB3')   or
+InNet('VIN')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.406mm) ((OnLayer('L1') OR OnLayer('L4')) AND (InNet('VIN') OR InNet('PHASE_HB1') OR InNet('PHASE_HB2') OR InNet('PHASE_HB3') OR InNet('GH_HB1')  OR InNet('GH_HB2') OR InNet('GH_HB3') OR InNet('CP_HB1')  OR InNet('CP_HB2') OR InNet('CP_HB3'))),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+   Violation between Short-Circuit Constraint: Between Pad NT1-1(167.259mm,22.196mm) on L2 And Pad NT1-2(167.259mm,21.696mm) on L2 Location : [X = 474.759mm][Y = 168.196mm]
+Rule Violations :1
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.152mm) (Max=12.7mm) (Preferred=0.254mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.3mm) (Max=6.5mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.102mm) (All),(All)
+   Violation between Minimum Solder Mask Sliver Constraint: (0.078mm < 0.102mm) Between Pad C10_HB3-1(141.216mm,28.442mm) on L1 And Pad R9_HB3-2(141.216mm,29.12mm) on L1 [Top Solder] Mask Sliver [0.078mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.002mm < 0.102mm) Between Pad Free-3(95.377mm,57.226mm) on L4 And Pad IC1_HB2-2(95.94mm,55.604mm) on Multi-Layer [Bottom Solder] Mask Sliver [0.002mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.096mm < 0.102mm) Between Pad J1-0(155.025mm,76.492mm) on L4 And Pad J1-0(155.477mm,74.193mm) on L4 [Bottom Solder] Mask Sliver [0.096mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.093mm < 0.102mm) Between Pad J1-0(155.025mm,76.492mm) on L4 And Pad J1-0(157.096mm,76.492mm) on L4 [Bottom Solder] Mask Sliver [0.093mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.093mm < 0.102mm) Between Pad J1-0(158.788mm,76.492mm) on L4 And Pad J1-0(160.859mm,76.492mm) on L4 [Bottom Solder] Mask Sliver [0.093mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.096mm < 0.102mm) Between Pad J1-0(160.407mm,74.193mm) on L4 And Pad J1-0(160.859mm,76.492mm) on L4 [Bottom Solder] Mask Sliver [0.096mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.072mm < 0.102mm) Between Pad Q1_HB2-3(81mm,43.904mm) on L1 And Via (87mm,42.75mm) from L1 to L4 [Top Solder] Mask Sliver [0.072mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.072mm < 0.102mm) Between Pad Q1_HB2-3(81mm,43.904mm) on L1 And Via (87mm,45.75mm) from L1 to L4 [Top Solder] Mask Sliver [0.072mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.052mm < 0.102mm) Between Pad S3-1(168.097mm,12.471mm) on Multi-Layer And Via (169.4mm,11.45mm) from L1 to L4 [Top Solder] Mask Sliver [0.052mm] / [Bottom Solder] Mask Sliver [0.052mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.001mm < 0.102mm) Between Pad S3-1(170.637mm,12.471mm) on Multi-Layer And Via (169.4mm,11.45mm) from L1 to L4 [Top Solder] Mask Sliver [0.001mm] / [Bottom Solder] Mask Sliver [0.001mm]
+Rule Violations :10
+
+Processing Rule : Silk To Solder Mask (Clearance=0.102mm) (Disabled)(IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0mm) (Disabled)(All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Room HB1 (Bounding Region = (308mm, 158.5mm, 360.5mm, 204mm) (Disabled)(InComponentClass('HB1'))
+Rule Violations :0
+
+Processing Rule : Room HB2 (Bounding Region = (361.95mm, 158.623mm, 413.918mm, 203.606mm) (Disabled)(InComponentClass('HB2'))
+Rule Violations :0
+
+Processing Rule : Room MCU (Bounding Region = (369.57mm, 271.923mm, 519.049mm, 288.179mm) (Disabled)(InComponentClass('MCU'))
+Rule Violations :0
+
+Processing Rule : Room besc sch (Bounding Region = (495.054mm, 238.909mm, 499.397mm, 244.497mm) (Disabled)(InComponentClass('besc sch'))
+Rule Violations :0
+
+Processing Rule : Room HB3 (Bounding Region = (415.408mm, 158.508mm, 467.908mm, 204.008mm) (Disabled)(InComponentClass('HB3'))
+Rule Violations :0
+
+Processing Rule : Room IO & POWER MANAGEMENT (Bounding Region = (342.552mm, 246.605mm, 519.59mm, 269.973mm) (Disabled)(InComponentClass('IO & POWER MANAGEMENT'))
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+Processing Rule : Silk primitive without silk layer
+Rule Violations :0
+
+
+Violations Detected : 13
+Waived Violations : 0
+Time Elapsed        : 00:00:01

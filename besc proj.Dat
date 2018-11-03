@@ -1,45 +1,51 @@
-﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~besc proj.PrjPcb|ReportField=ProjectFullPath~A:\Documents\ev\BESC\besc proj.PrjPcb|ReportField=Title~Bill of Materials For Project [besc proj.PrjPcb] (No PCB Document Selected)|ReportField=ReportTime~19:11:28|ReportField=ReportDate~1.11.2018|ReportField=ReportDateTime~1.11.2018 19:11:28|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=TotalQuantity~168|ReportField=TotalActualPrice~0|ReportField=TotalTargetPrice~0|ReportField=VersionControl_RevNumber~|ReportField=VersionControl_ProjFolderRevNumber~|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~1.11.2018|ReportField=CurrentTime~19:11:01|ReportField=Date~|ReportField=DocumentFullPathAndName~A:\Documents\ev\BESC\besc sch.SchDoc|ReportField=DocumentName~besc sch.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~1.11.2018|ReportField=Organization~|ReportField=ProjectName~besc proj.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~besc proj.PrjPcb|ReportField=DataSourceFullPath~A:\Documents\ev\BESC\besc proj.PrjPcb|ReportField=PCBConfigurationName~Default Configuration|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~besc proj.PrjPcb|ReportField=ProjectFullPath~A:\Documents\ev\BESC\besc proj.PrjPcb|ReportField=Title~Bill of Materials For Project [besc proj.PrjPcb] (No PCB Document Selected)|ReportField=ReportTime~14:45:40|ReportField=ReportDate~3.11.2018|ReportField=ReportDateTime~3.11.2018 14:45:40|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=TotalQuantity~170|ReportField=TotalActualPrice~0|ReportField=TotalTargetPrice~0|ReportField=VersionControl_RevNumber~|ReportField=VersionControl_ProjFolderRevNumber~85aeddee1a0e6fe6b762b67014df212e9c411f2d|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~3.11.2018|ReportField=CurrentTime~14:02:39|ReportField=Date~|ReportField=DocumentFullPathAndName~A:\Documents\ev\BESC\besc sch.SchDoc|ReportField=DocumentName~besc sch.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~3.11.2018|ReportField=Organization~|ReportField=ProjectName~besc proj.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~besc proj.PrjPcb|ReportField=DataSourceFullPath~A:\Documents\ev\BESC\besc proj.PrjPcb|ReportField=PCBConfigurationName~Default Configuration|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
 1|4.7u 200V|Capacitor|C1_HB1, C1_HB2, C1_HB3, C2_HB1, C2_HB2, C2_HB3, C3_HB1, C3_HB2, C3_HB3, C4_HB1, C4_HB2, C4_HB3, C37_HB1, C37_HB2, C37_HB3, C38_HB1, C38_HB2, C38_HB3|CAP 2220/5650 3.3MM|cap|18
 2|22u|Capacitor|C5_HB1, C5_HB2, C5_HB3|0805|cap|3
 3|560uf 200V|Polarized Capacitor (Radial)|C6_HB1, C6_HB2, C6_HB3, C12_HB1, C12_HB2, C12_HB3|ELKO_18x40_90deg|Cap Pol1|6
 4|100n|Capacitor|C7_HB1, C7_HB2, C7_HB3, C19, C26, C27, C28, C34, C39|0603|cap|9
 5|220n|Capacitor|C8_HB1, C8_HB2, C8_HB3, C18, C22|0603|cap|5
-6|4.7n|Capacitor|C9_HB1, C9_HB2, C9_HB3|0603|cap|3
-7|220p|Capacitor|C10_HB1, C10_HB2, C10_HB3, C11_HB1, C11_HB2, C11_HB3|0603|cap|6
-8|10u|Capacitor|C13, C14, C15, C16|0805|Cap|4
-9|2.2u|Capacitor|C17, C23, C24|0603|Cap|3
-10|15p|Capacitor|C20, C21|0603|cap|2
-11|4.7u|Capacitor|C25|0603|cap|1
-12|10n|Capacitor|C29, C30, C31, C32, C35|0603|cap|5
-13|1u|Capacitor|C33|0603|cap|1
-14|1n|Capacitor|C36|0603|cap|1
-15|6A|High Conductance Fast Diode|D1_HB1, D1_HB2, D1_HB3|DO-214AC|Diode 1N4148|3
-16|LED0|Typical INFRARED GaAs LED|D2, D3, D4|0805-diode|LED0|3
-17|UCC27714||DRV1_HB1, DRV1_HB2, DRV1_HB3|SOIC14_M|UCC27714|3
-18|ACS758||IC1_HB1, IC1_HB2, IC1_HB3|ACS758|ACS758|3
-19|NCP1117ST33T3||IC2, IC3|SOT223_M|VOLTREG_LD1117S33|2
-20|USB Micro|SOCKET, USB MINI-AB THRU HOLE|J1|MOLEX - 47346-0001 - MICRO USB TYPE B, RECEPTACLE, BOTTOM|USB Mini AB|1
-21|12V IN|Header, 2-Pin|P1|JST SM02B-PASS-TB|Header 2|1
-22|COMM|Header, 8-Pin|P2|JST SM08B-PASS-TB|Header 8|1
-23|HALL/ENCODER|Header, 6-Pin|P3|JST SM06B-PASS-TB|Header 6|1
-24|SWD|Header, 5-Pin|P4|Header 1x5 male|Header 5|1
-25|Header 3|Header, 3-Pin|P5|JST SM03B-PASS-TB|Header 3|1
-26|IPB044N15N5|N-Channel Power MOSFET|Q1_HB1, Q1_HB2, Q1_HB3, Q2_HB1, Q2_HB2, Q2_HB3, Q3_HB1, Q3_HB2, Q3_HB3, Q4_HB1, Q4_HB2, Q4_HB3|Dpak-7|NMOS-2|12
-27|3R01|Resistor|R1_HB1, R1_HB2, R1_HB3, R3_HB1, R3_HB2, R3_HB3, R10_HB1, R10_HB2, R10_HB3, R12_HB1, R12_HB2, R12_HB3|0603|Res2|12
-28|10k|Resistor|R2_HB1, R2_HB2, R2_HB3, R4_HB1, R4_HB2, R4_HB3, R11_HB1, R11_HB2, R11_HB3, R13_HB1, R13_HB2, R13_HB3, R20, R21, R29, R30|0603|Res2|16
-29|2.2E|Resistor|R5_HB1, R5_HB2, R5_HB3|0805|Res2|3
-30|5E|Resistor|R6_HB1, R6_HB2, R6_HB3|0603|Res2|3
-31|51E|Resistor|R7_HB1, R7_HB2, R7_HB3, R9_HB1, R9_HB2, R9_HB3|0603|Res2|6
-32|100R|Resistor|R8_HB1, R8_HB2, R8_HB3|0603|Res2|3
-33|68k|Resistor|R14_HB1, R14_HB2, R14_HB3, R25|0603|Res2|4
-34|1k5|Resistor|R15_HB1, R15_HB2, R15_HB3, R26|0603|Res2|4
-35|100E|Resistor|R16, R27, R28|0603|Res2|3
-36|2k2|Resistor|R17, R18, R19, R24|0603|Res2|4
-37|22E|Resistor|R22, R23|0603|Res2|2
-38|10k NTC|Thermistor|RT1|0603|Res Thermal|1
-39|PHASE SCREW||S1_HB1, S1_HB2, S1_HB3|WP-SHFU-M6|En_pin|3
-40|INPUT + SCREW||S2|WP-SHFU-M6|En_pin|1
-41|INPUT - SCREW||S3|WP-SHFU-M6|En_pin|1
-42|USBLC6-2P6||TVS1|SOT23127P600-8N|USBLC6-2P6|1
-43|STM32F405RGT7|ARM Cortex-M4 32-bit MCU+FPU, 210 DMIPS, 1024 kB Flash, 192 kB Internal RAM, 51 I/Os, 64-pin LQFP, -40 to 105 degC, Tray|U1|STM-LQFP64_N|STM32F405RGT7|1
-44|XTAL|Crystal Oscillator|Y1|XTAL 3.2 x 2.5|XTAL|1
+6|100p|Capacitor|C9_HB1, C9_HB2, C9_HB3|0603|cap|3
+7|220p|Capacitor|C10_HB1, C10_HB2, C10_HB3|0402|cap|3
+8|220p|Capacitor|C11_HB1, C11_HB2, C11_HB3|0603|cap|3
+9|10u|Capacitor|C13, C14, C15, C16|0805|Cap|4
+10|2.2u|Capacitor|C17, C23, C24|0603|Cap|3
+11|15p|Capacitor|C20, C21|0603|cap|2
+12|4.7u|Capacitor|C25|0603|cap|1
+13|10n|Capacitor|C29, C30, C31, C32, C35|0603|cap|5
+14|1u|Capacitor|C33|0603|cap|1
+15|1n|Capacitor|C36|0603|cap|1
+16|6A|High Conductance Fast Diode|D1_HB1, D1_HB2, D1_HB3|DO-214AC|Diode 1N4148|3
+17|LED BLUE|Typical INFRARED GaAs LED|D2|0805-diode|LED0|1
+18|LED GREEN|Typical INFRARED GaAs LED|D3|0805-diode|LED0|1
+19|LED RED|Typical INFRARED GaAs LED|D4|0805-diode|LED0|1
+20|UCC27714||DRV1_HB1, DRV1_HB2, DRV1_HB3|SOIC14_M|UCC27714|3
+21|ACS773ECB-200B-PFF-T||IC1_HB1, IC1_HB2, IC1_HB3|ACS758|ACS758|3
+22|NCP1117ST50T3||IC2|SOT223_M|VOLTREG_LD1117S33|1
+23|NCP1117ST33T3||IC3|SOT223_M|VOLTREG_LD1117S33|1
+24|USB Micro|SOCKET, USB MINI-AB THRU HOLE|J1|MOLEX - 47346-0001 - MICRO USB TYPE B, RECEPTACLE, BOTTOM|USB Mini AB|1
+25|Net tie||NT1|NETTIE12mil|Net tie|1
+26|12V IN|JST SM02B-PASS-TB|P1|JST SM02B-PASS-TB|Header 2|1
+27|COMM|JST SM08B-PASS-TB|P2|JST SM08B-PASS-TB|Header 8|1
+28|HALL/ENCODER|JST SM06B-PASS-TB|P3|JST SM06B-PASS-TB|Header 6|1
+29|SWD|Header, 5-Pin|P4|Header 1x5 male|Header 5|1
+30|Header 3|Header, 3-Pin|P5|JST SM03B-PASS-TB|Header 3|1
+31|IPB044N15N5|N-Channel Power MOSFET|Q1_HB1, Q1_HB2, Q1_HB3, Q2_HB1, Q2_HB2, Q2_HB3, Q3_HB1, Q3_HB2, Q3_HB3, Q4_HB1, Q4_HB2, Q4_HB3|Dpak-7|NMOS-2|12
+32|3R01|Resistor|R1_HB1, R1_HB2, R1_HB3, R3_HB1, R3_HB2, R3_HB3, R10_HB1, R10_HB2, R10_HB3, R12_HB1, R12_HB2, R12_HB3|0603|Res2|12
+33|10k|Resistor|R2_HB1, R2_HB2, R2_HB3, R4_HB1, R4_HB2, R4_HB3, R11_HB1, R11_HB2, R11_HB3, R13_HB1, R13_HB2, R13_HB3, R20, R21, R29, R30, R31|0603|Res2|17
+34|2.2E|Resistor|R5_HB1, R5_HB2, R5_HB3|1210|Res2|3
+35|5E|Resistor|R6_HB1, R6_HB2, R6_HB3|0603|Res2|3
+36|51E|Resistor|R7_HB1, R7_HB2, R7_HB3|0603|Res2|3
+37|4k7|Resistor|R8_HB1, R8_HB2, R8_HB3|0603|Res2|3
+38|51E|Resistor|R9_HB1, R9_HB2, R9_HB3|0402|Res2|3
+39|68k|Resistor|R14_HB1, R14_HB2, R14_HB3, R25|0603|Res2|4
+40|1k5|Resistor|R15_HB1, R15_HB2, R15_HB3, R26|0603|Res2|4
+41|100E|Resistor|R16, R27, R28|0603|Res2|3
+42|2k2|Resistor|R17, R18, R19, R24|0603|Res2|4
+43|22E|Resistor|R22, R23|0603|Res2|2
+44|10k NTC|Thermistor|RT1|0603|Res Thermal|1
+45|PHASE SCREW|7461098|S1_HB1, S1_HB2, S1_HB3|WP-SHFU-M6|En_pin|3
+46|INPUT + SCREW|7461098|S2|WP-SHFU-M6|En_pin|1
+47|INPUT - SCREW|7461098|S3|WP-SHFU-M6|En_pin|1
+48|USBLC6-2P6||TVS1|SOT23127P600-8N|USBLC6-2P6|1
+49|STM32F405RGT7|ARM Cortex-M4 32-bit MCU+FPU, 210 DMIPS, 1024 kB Flash, 192 kB Internal RAM, 51 I/Os, 64-pin LQFP, -40 to 105 degC, Tray|U1|STM-LQFP64_N|STM32F405RGT7|1
+50|XTAL|Crystal Oscillator|Y1|XTAL 5 x 3.2 mm|XTAL|1
