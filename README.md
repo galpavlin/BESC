@@ -7,3 +7,6 @@ https://github.com/TechAUmNu/A200S
 https://github.com/vedderb/bldc-hardware
 
 BESC Hardware is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/.
+
+![BESC pcb](https://github.com/galpavlin/BESC/blob/master/top.JPG)
+
